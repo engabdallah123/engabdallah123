@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Abdallah Ebrahim
-- 👀 I’m interested in programing and software
-- 🌱 I’m currently learning .NET backend developement
-- 💞️ I’m looking to collaborate on finding the code that help us in our work
-
+Computer engineering student with a strong foundation in software development and a passion for building robust, scalable, and user-friendly applications. My expertise lies in the .NET ecosystem, particularly in ASP.NET Core, where I focus on creating seamless user experiences and efficient backend solutions.
 
 <!---
 engabdallah123/engabdallah123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
