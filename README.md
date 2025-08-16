@@ -39,7 +39,7 @@ I believe in *“learning by building”*.
 ---
 
 ## 🛠️ My Dynamic Tech Stack  
-<div align="center">
+
  
 ### 🔹 Languages & Frameworks  
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
@@ -63,7 +63,7 @@ I believe in *“learning by building”*.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-</div>
+
 ---
 
 ## 📊 GitHub Stats  
