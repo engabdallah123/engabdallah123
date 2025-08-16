@@ -53,16 +53,13 @@ I believe in *“learning by building”*.
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-
-### 🔹 Databases & Caching  
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)  
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?logo=nuget&logoColor=white)  
-
-### 🔹 Tools & Others  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
 
 ---
 
