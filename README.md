@@ -4,9 +4,10 @@
 
 </div>
 
-**Computer Engineering student with a strong foundation in software development and a passion for building robust, scalable, and user-friendly applications.**  
-I specialize in **full stack development** using *Angular* for the frontend and the .NET ecosystem — particularly *ASP.NET Core* — for backend solutions.  
-I focus on delivering seamless user experiences and efficient, maintainable code across the entire application stack.  
+I am a passionate Computer Engineering student with a strong foundation in software development and a keen interest in building robust, scalable, and user-friendly applications. My main focus is on **full-stack development**, where I combine modern frontend technologies like **Angular** with the power of the **.NET ecosystem** — particularly **ASP.NET Core** — to deliver efficient and maintainable solutions. I am committed to writing clean and elegant code, continuously learning new technologies, and transforming complex problems into simple, impactful solutions that create seamless user experiences.  
+
+</div>
+
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-ebrahim-5038272b6)  
