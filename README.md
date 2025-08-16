@@ -2,10 +2,13 @@
 
 # Hi, I'm Abdallah Ebrahim 👋  
 
+</div>
+
 **Computer Engineering student with a strong foundation in software development and a passion for building robust, scalable, and user-friendly applications.**  
 I specialize in **full stack development** using *Angular* for the frontend and the .NET ecosystem — particularly *ASP.NET Core* — for backend solutions.  
 I focus on delivering seamless user experiences and efficient, maintainable code across the entire application stack.  
-
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-ebrahim-5038272b6)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engabdallah067@gmail.com)  
 
