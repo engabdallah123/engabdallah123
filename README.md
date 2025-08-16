@@ -6,7 +6,7 @@
  My expertise lies in **Full Stack Applications**, particularly in **ASP.NET Core** and **Angular**, where I focus on creating seamless user experiences and efficient backend solutions.  
 
 📫 **Reach Me On:**  
-<div align="center" display="block">
+<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdallah-ebrahim-5038272b6)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engabdallah067@gmail.com)  
 </div>
@@ -37,6 +37,7 @@ I believe in *“learning by building”*.
 
 ## 🛠️ My Dynamic Tech Stack  
 <div align="center">
+ 
 ### 🔹 Languages & Frameworks  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -61,6 +62,7 @@ I believe in *“learning by building”*.
 
 ## 📊 GitHub Stats  
 <div align="center">
+ 
 ![Abdallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=engabdallah123&show_icons=true&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engabdallah123&layout=compact&theme=radical)  
@@ -71,6 +73,7 @@ I believe in *“learning by building”*.
 
 ## 🏆 GitHub Trophies  
 <div align="center">
+ 
 ![trophy](https://github-profile-trophy.vercel.app/?username=engabdallah123&theme=radical&margin-w=10&margin-h=10)  
 </div>
 ---
