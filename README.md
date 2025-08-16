@@ -45,6 +45,10 @@ I believe in *“learning by building”*.
   <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Web_API-5C2D91?logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+ <img src="https://img.shields.io/badge/LINQ-512BD4?logo=dotnet&logoColor=white" />
+ <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?logo=dotnet&logoColor=white" />
+ <img src="https://img.shields.io/badge/Clean_Architecture-2E7D32?logo=archlinux&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
