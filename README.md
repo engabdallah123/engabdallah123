@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi, I'm Abdallah Ebrahim 👋  
 
 🎓 **Computer Engineering Student** with a strong foundation in software development and a passion for building **robust, scalable, and user-friendly applications.**  
@@ -9,7 +11,7 @@
 
 ---
 
-## 🚀 What I'm Passionate About (My Expertise)  
+## 🚀 What I'm Passionate About  
 
 ### 🔹 .NET Development (In Training)  
 Strengthening my expertise in building robust and scalable backend solutions using **ASP.NET Core**.  
@@ -72,3 +74,5 @@ I believe in *“learning by building”*.
 
 ## 💡 Quote  
 *"Always excited to learn, build, and contribute to innovative projects. Feel free to explore my repositories!"*  
+
+</div>
